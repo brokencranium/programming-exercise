@@ -1,0 +1,6 @@
+.idea
+output
+spark-warehouse
+*.log
+.python-version
+*.iml

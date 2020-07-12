@@ -1,0 +1,277 @@
+[
+  {
+    "id": "164651478631223455788978942317",
+    "subject": "This is a new event",
+    "data": {
+      "message": {
+        "orderPaid": {
+          "orderToken": "97331549875122744335422",
+          "preparation": "Magic happens here",
+          "items": [
+            {
+              "lineItemNumber": "1",
+              "itemLabel": "COFFEE",
+              "quantity": 1.0,
+              "price": 345,
+              "discounts": [
+                {
+                  "amount": 495,
+                  "description": "Item 1, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 1, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "2",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "3",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "4",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "5",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "6",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "7",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "8",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "9",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "lineItemNumber": "10",
+              "itemLabel": "COFFEE",
+              "quantity": 2.0,
+              "price": 945,
+              "discounts": [
+                {
+                  "amount": 295,
+                  "description": "Item 2, Discount 1"
+                }
+              ],
+              "childItems": [
+                {
+                  "lineItemNumber": "1",
+                  "itemLabel": "CREAM",
+                  "quantity": 1.0,
+                  "price": 0,
+                  "discounts": [
+                    {
+                      "amount": 495,
+                      "description": "Child Item 2, Discount 1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "eventTime": "2020-05-19T01:59:10.379Z"
+  }
+]
